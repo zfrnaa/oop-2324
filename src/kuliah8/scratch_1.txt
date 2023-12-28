@@ -1,0 +1,7 @@
+constructor
+
+same name with the class name and does not have access modifier
+does not have return type
+it have parameters
+
+it will run automatically execute when there is an object declaration
